@@ -20,4 +20,4 @@ pip install -r requirements.txt
 python v2.py
 ```
 
-Using the above command the script also generates 10000 words of shakeshpere text. The text is understandable.
+Using the above command the script trains the model, and also generates 10000 words of shakeshpere text. The text is understandable. But it does not make sense yet. It would need better engineering where we might need to use more data, and also better tokens, and train for more epochs.
